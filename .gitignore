@@ -1,0 +1,5 @@
+# venv configure files
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
