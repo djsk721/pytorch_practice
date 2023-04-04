@@ -3,3 +3,6 @@ Include/
 Lib/
 Scripts/
 pyvenv.cfg
+share/
+.gitignore/
+한영번역/
